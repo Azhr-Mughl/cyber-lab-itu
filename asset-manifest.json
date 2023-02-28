@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cyber-lab-itu/static/css/main.140bc7ae.css",
+    "main.js": "/cyber-lab-itu/static/js/main.02355632.js",
+    "static/js/787.1b8c48f3.chunk.js": "/cyber-lab-itu/static/js/787.1b8c48f3.chunk.js",
+    "static/media/image-5.png": "/cyber-lab-itu/static/media/image-5.86ec584004e5d4264674.png",
+    "static/media/image-4.png": "/cyber-lab-itu/static/media/image-4.1001a54112395870b9c1.png",
+    "static/media/image-2.png": "/cyber-lab-itu/static/media/image-2.3b066c53f258ec96d7ea.png",
+    "static/media/image-1.png": "/cyber-lab-itu/static/media/image-1.d7774b9fefdfe53b6b29.png",
+    "static/media/image-3.png": "/cyber-lab-itu/static/media/image-3.d20d6eca4eba829844d8.png",
+    "static/media/dashboard.svg": "/cyber-lab-itu/static/media/dashboard.244d517a7fb486c40ecfd98c750ebf23.svg",
+    "static/media/settings.svg": "/cyber-lab-itu/static/media/settings.efea0cf5cdbbf5436c97d6ed1afaa399.svg",
+    "static/media/contacts.svg": "/cyber-lab-itu/static/media/contacts.5402cab461284c1a0b88e119b5eb478d.svg",
+    "static/media/tasks.svg": "/cyber-lab-itu/static/media/tasks.df685402584bac2c30186039c18ef376.svg",
+    "static/media/deals.svg": "/cyber-lab-itu/static/media/deals.a46ddf300c3c5749ae331586db0bd98a.svg",
+    "index.html": "/cyber-lab-itu/index.html",
+    "static/media/email.svg": "/cyber-lab-itu/static/media/email.237052a3eca81e1c5a0a652d5d9280f5.svg",
+    "static/media/loader.svg": "/cyber-lab-itu/static/media/loader.7327d59ecb1dafddf456c765ee6eba63.svg",
+    "static/media/chat.svg": "/cyber-lab-itu/static/media/chat.31d0be4a1c3108a7bde24999475b130d.svg",
+    "main.140bc7ae.css.map": "/cyber-lab-itu/static/css/main.140bc7ae.css.map",
+    "main.02355632.js.map": "/cyber-lab-itu/static/js/main.02355632.js.map",
+    "787.1b8c48f3.chunk.js.map": "/cyber-lab-itu/static/js/787.1b8c48f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.140bc7ae.css",
+    "static/js/main.02355632.js"
+  ]
+}

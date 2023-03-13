@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/cyber-lab-itu/static/css/main.6dc5d661.css",
-    "main.js": "/cyber-lab-itu/static/js/main.46d08b46.js",
+    "main.js": "/cyber-lab-itu/static/js/main.1ef6b8ec.js",
     "static/js/787.1b8c48f3.chunk.js": "/cyber-lab-itu/static/js/787.1b8c48f3.chunk.js",
-    "static/media/camera-feed-1.mp4": "/cyber-lab-itu/static/media/camera-feed-1.0beda0ca078d5b5573ca.mp4",
+    "static/media/camera-feed-1.gif": "/cyber-lab-itu/static/media/camera-feed-1.d836f4fef87868fb4c5c.gif",
+    "static/media/camera-feed-2.gif": "/cyber-lab-itu/static/media/camera-feed-2.1c564e10f26a54e6afce.gif",
+    "static/media/camera-feed-3.gif": "/cyber-lab-itu/static/media/camera-feed-3.3e72801f692a1b83104d.gif",
     "static/media/ezgif-frame-005.jpg": "/cyber-lab-itu/static/media/ezgif-frame-005.39eca5396e795260dbef.jpg",
     "static/media/ezgif-frame-001.jpg": "/cyber-lab-itu/static/media/ezgif-frame-001.67652b654a8dbf0d2ab0.jpg",
     "static/media/hotzone-005.jpg": "/cyber-lab-itu/static/media/hotzone-005.116a8f79988f87e967f8.jpg",
@@ -41,11 +43,11 @@
     "static/media/loader.svg": "/cyber-lab-itu/static/media/loader.7327d59ecb1dafddf456c765ee6eba63.svg",
     "static/media/chat.svg": "/cyber-lab-itu/static/media/chat.31d0be4a1c3108a7bde24999475b130d.svg",
     "main.6dc5d661.css.map": "/cyber-lab-itu/static/css/main.6dc5d661.css.map",
-    "main.46d08b46.js.map": "/cyber-lab-itu/static/js/main.46d08b46.js.map",
+    "main.1ef6b8ec.js.map": "/cyber-lab-itu/static/js/main.1ef6b8ec.js.map",
     "787.1b8c48f3.chunk.js.map": "/cyber-lab-itu/static/js/787.1b8c48f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dc5d661.css",
-    "static/js/main.46d08b46.js"
+    "static/js/main.1ef6b8ec.js"
   ]
 }
